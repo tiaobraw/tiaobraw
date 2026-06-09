@@ -1,24 +1,24 @@
-# Olá, eu sou Tião 👋
+# Hi, I'm Tião 👋
 
-**Desenvolvedor Full Stack | Fundador da Green Devs & iSoluções**
+**Full Stack Developer | Founder of Green Devs & iSoluções**
 
-Sou um desenvolvedor apaixonado por tecnologia e empreendedorismo, focado em criar soluções escaláveis e eficientes. Divido meu tempo entre a gestão das minhas empresas de tecnologia, desenvolvimento de software e a integração de automações inteligentes e IA para negócios.
+I'm a developer passionate about technology and entrepreneurship, focused on creating scalable and efficient solutions. I divide my time between managing my tech companies, software development, and integrating intelligent automation and AI for businesses.
 
-### 🎓 Formação Acadêmica
-Acredito que a combinação de habilidades de negócios e engenharia de software é o diferencial para construir soluções de impacto:
-* **Bacharelado em Ciência da Computação**
-* **Mestrado em Administração de Empresas**
-* **Bacharelado em Administração**
+### 🎓 Academic Background
+I believe the combination of business skills and software engineering is the key differentiator for building impactful solutions:
+* **Bachelor's Degree in Computer Science**
+* **Master's Degree in Business Administration**
+* **Bachelor's Degree in Business Administration**
 
-### 🚀 O que eu faço
-* 💻 Desenvolvo aplicações web robustas de ponta a ponta.
-* ⚙️ Construo e gerencio infraestruturas de servidores, ambientes de contêineres e orquestração para alta escalabilidade.
-* 🤖 Implemento soluções de automação de processos de negócios e integração com IA.
-* 📈 Transformo necessidades de negócios em arquiteturas de software reais.
+### 🚀 What I do
+* 💻 Develop robust end-to-end web applications.
+* ⚙️ Build and manage server infrastructures, containerized environments, and orchestration for high scalability.
+* 🤖 Implement business process automation and AI integration solutions.
+* 📈 Translate business needs into real software architectures.
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Technologies & Tools
 
-**Back-end & IA:**  
+**Back-end & AI:**  
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -29,7 +29,7 @@ Acredito que a combinação de habilidades de negócios e engenharia de software
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**DevOps, Automação & Infraestrutura:**  
+**DevOps, Automation & Infrastructure:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -39,14 +39,14 @@ Acredito que a combinação de habilidades de negócios e engenharia de software
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiaobraw&show_icons=true&theme=radium" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiaobraw&layout=compact&theme=radium" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tiaobraw&show_icons=true&theme=radium" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiaobraw&layout=compact&theme=radium" alt="Top Languages" />
 </div>
 
-### 📫 Como me encontrar
+### 📫 How to reach me
 - 💼 [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A3o-vieira/)
 - 🌐 iSoluções: [isolucoes.com.br](https://isolucoes.com.br)
 - 🌐 Green Devs: [greendevs.tech](https://greendevs.tech)
